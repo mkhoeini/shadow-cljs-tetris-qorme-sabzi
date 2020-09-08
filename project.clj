@@ -3,4 +3,4 @@
   [[thheller/shadow-cljs "2.11.1"]]
 
   :source-paths
-  ["src"])
+  ["src/main"])
